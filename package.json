@@ -1,0 +1,21 @@
+{
+  "name": "petshop",
+  "version": "1.0.0",
+  "description": "Projeto utilizado como base de ensino 4e treinamento dos cursos de **Informática**,  \r principalmente de nível técnico - **IFSP**",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuoleoin/PetShop.git"
+  },
+  "keywords": [],
+  "author": "Manuella Oleoin do Prado",
+  "license": "MIT",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/manuoleoin/PetShop/issues"
+  },
+  "homepage": "https://github.com/manuoleoin/PetShop#readme"
+}
